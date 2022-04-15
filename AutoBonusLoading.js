@@ -1,4 +1,4 @@
-
+//yoyo
 function ABL() {
   function AT() {
 	  const bonus = document.querySelector(".claimable-bonus__icon");
